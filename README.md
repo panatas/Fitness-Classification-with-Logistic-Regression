@@ -40,7 +40,6 @@ Evaluated the Model with:
 - __F1-score__
 
 ## Visualization
-- __Correlation Heatmap__ for explored feature relationship.
 - __Distribution Plots__ for check data quality and outliers.
 - __Custom Confusion Matrix__ for evaluated model performance.
 
@@ -61,11 +60,6 @@ __Recall__
 __F1-Score__
 - Train : 0.735
 - Test : 0.701
-
-## Key Insight
-- __Smoking__ is __negatively associated__ with fitness.
-- Higher sleep hours, actively index, and nutrition quality __increases__ fitness likelihood.
-- __Logistic regression__ provides a __solid baseline__ for classification.
 
 ## Conclusion
 This Project demonstrates how to build a classification model from a messy dataset by:
